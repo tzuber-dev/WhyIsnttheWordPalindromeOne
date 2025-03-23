@@ -1,3 +1,1 @@
-#include <word.h>
-
-//main 
+//IGNOREFILE
